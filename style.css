@@ -1,0 +1,171 @@
+input.cinco {
+    position: relative;
+    right: 5px;
+}
+
+input.seis{
+    position: relative;
+    right: 5px;
+    
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: rgb(63, 63, 63);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(82, 82, 82);
+}
+
+p.uno {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-size: smaller;
+}
+
+input.dos {
+    block-size: 30px;
+    color:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width:260px;
+    height:30px
+}
+
+input.tres {
+    block-size: 30px;
+    color:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width:260px;
+    height:30px
+}
+
+input.cuatro {
+    background-color: orange;
+    border-color: orange;
+    color: white;
+    block-size: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    width:270px;
+    height:35px
+}
+
+input.siete {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 582px;
+    height: 45px;
+    font-size: medium;
+}
+
+input.ocho {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 275px;
+    height: 45px;
+    font-size: medium;
+}
+
+input.nueve {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 275px;
+    height: 45px;
+    font-size: medium;
+    position: relative;
+    left: 20px;
+}
+
+select.diez {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 282px;
+    height: 50px;
+    font-size: medium;
+}
+
+input.once {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 275px;
+    height: 45px;
+    font-size: medium;
+    position: relative;
+    left: 20px;
+}
+
+input.doce {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 275px;
+    height: 45px;
+    font-size: medium;
+    position: relative;
+}
+
+input.trece {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    width: 275px;
+    height: 45px;
+    font-size: medium;
+    position: relative;
+    left: 20px;
+}
+
+h2.catorce {
+    position: relative;
+    left: 70px;
+}
+
+input.dieciseis {
+    block-size: 30px;
+    color:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width:325px;
+    height:30px
+}
+
+input.dieciocho {
+    block-size: 30px;
+    color:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width:325px;
+    height:30px
+}
+
+input.diecinueve {
+    block-size: 30px;
+    color:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width:325px;
+    height:30px
+}
+
+input.veinte {
+    block-size: 30px;
+    color:  grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width:325px;
+    height:30px
+}
+
+input.veintiuno {
+    background-color: rgb(76, 189, 72);
+    border-color: rgb(76, 189, 72);
+    color: white;
+    block-size: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    width:330px;
+    height:35px
+}
